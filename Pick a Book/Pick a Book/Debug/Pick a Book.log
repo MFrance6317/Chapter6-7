@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\mf145884\desktop\chapter6-7\pick a book\pick a book\source.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Pick a Book.vcxproj -> C:\Users\mf145884\Desktop\Chapter6-7\Pick a Book\Debug\Pick a Book.exe
