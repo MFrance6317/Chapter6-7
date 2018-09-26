@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\mf145884\desktop\chapter6-7\randnum\randnum\source.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RandNum.vcxproj -> C:\Users\mf145884\Desktop\Chapter6-7\RandNum\Debug\RandNum.exe
